@@ -16,7 +16,7 @@ I've been mostly working on integrating multi-view data using network-based appr
   - Research area: Multi-view learning, Network-based analysis, Bioinformatics, Social data mining
 
 ### Education
-- <b>Ajou University</b>
+- <b>Ajou University</b> |  
   - <b>Ph.D. Candidate</b>, Computer Engineering, 2014 - present
   - <b>B. S.</b>, Computer Engineering, 2009 - 2014
 
