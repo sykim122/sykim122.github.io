@@ -21,7 +21,7 @@
 
 - <b>So Yeon Kim</b>, Sungdo Gu, Hyun-hwan Jeong and Kyung-Ah Sohn*. (2015) A Network Clustering Based Software Attribute Selection for Identifying Fault-Prone Modules. the 5th International Conference on IT Convergence and Security (<b>ICITCS 2015</b>), Kuala Lumpur, Malaysia [[Paper]](https://ieeexplore.ieee.org/abstract/document/7292921/) [[Slides]]()
 
-- <b>So Yeon Kim</b> and Kyung-Ah Sohn*. (2015) Mobile phone spam image detection based on graph partitioning with Pyramid Histogram of Visual Words image descriptor. the IEEE/ACIS 14th International Conference on Computer and Information Science (<b>ICIS 2015</b>), Las Vegas, USA [[Paper]](https://ieeexplore.ieee.org/abstract/document/7166595/) [[Slides]]()
+- <b>So Yeon Kim</b> and Kyung-Ah Sohn*. (2015) Mobile phone spam image detection based on graph partitioning with Pyramid Histogram of Visual Words image descriptor. the IEEE/ACIS 14th International Conference on Computer and Information Science (<b>ICIS 2015</b>), Las Vegas, USA [[Paper]](https://ieeexplore.ieee.org/abstract/document/7166595/) [[Slides]](https://www.slideshare.net/soyeon1771/icis-presentation)
 
 - Moon Soo Cha, <b>So Yeon Kim</b>, Jae Hee Ha, Min-June Lee, Young-June Choi and Kyung-Ah Sohn*. (2015) CBDIR: Fast and effective content based document Information Retrieval system. the IEEE/ACIS 14th International Conference on Computer and Information Science (<b>ICIS 2015</b>), Las Vegas, USA [[Paper]](https://ieeexplore.ieee.org/abstract/document/7166594/)
 
