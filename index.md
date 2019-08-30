@@ -2,6 +2,11 @@
 
 ---
 
+### Experience
+
+
+---
+
 ### Publications
 - <b>So Yeon Kim</b>, Hyun-Hwan Jeong, Jaesik Kim, Jeong-Hyeon Moon and Kyung-Ah Sohn*. (2019) Robust Pathway-based Multi-Omics Data Integration using Directed Random Walk for Survival Prediction in Multiple Cancer Studies. <b>Biology Direct</b>, 14(1): 8 (presented at the 17th Annual International Conference on Critical Assessment of Massive Data Analysis (<b>CAMDA 2018</b>, ISMB COSI track), Chicago, USA) [[Paper]](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0239-8) [[Slides]](https://www.slideshare.net/soyeon1771/robust-pathwaybased-multiomics-data-integrationusing-directed-random-walk-for-survival-prediction-in-multiple-cancer-studies)
 
@@ -27,7 +32,7 @@
 
 - <b>So Yeon Kim</b>, Yenewondim Biadgie and Kyung-Ah Sohn*. (2015) Investigating the Effectiveness of E-mail Spam Image Data for Phone Spam Image Detection Using Scale Invariant Feature Transform Image Descriptor. <b>Information Science and Applications</b>, LNEE 339:591-598 (presented at the 6th International Conference on Information Science and Applications (<b>ICISA 2015</b>), Pattaya, Thailand) [[Paper]](https://link.springer.com/chapter/10.1007/978-3-662-46578-3_69) [[Slides]](https://www.slideshare.net/soyeon1771/icisa-2015-presentation)
 
-- Seung Woo Cho, Moon Soo Cha, <b>So Yeon Kim</b>, Joo Cheol Song and Kyung-Ah Sohn*. (2014) Investigating temporal and spatial trends of brand images using Twitter opinion mining. the 5th International Conference on Information Science and Applications (<b>ICISA 2014</b>) [Paper](https://ieeexplore.ieee.org/abstract/document/6847417/)
+- Seung Woo Cho, Moon Soo Cha, <b>So Yeon Kim</b>, Joo Cheol Song and Kyung-Ah Sohn*. (2014) Investigating temporal and spatial trends of brand images using Twitter opinion mining. the 5th International Conference on Information Science and Applications (<b>ICISA 2014</b>) [[Paper]](https://ieeexplore.ieee.org/abstract/document/6847417/) <b>* Undergraduate Research Awards at Ajou University</b>
 
 
 ---
