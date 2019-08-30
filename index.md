@@ -15,7 +15,7 @@
 
 ### Education
 - <b>Ajou University</b>
-  - <b>Ph.D. Candidate</b>, Computer Engineering, 2014 - present 
+  - <b>Ph.D. Candidate</b>, Computer Engineering, 2014 - present
   - <b>B. S.</b>, Computer Engineering, 2009 - 2014
 
 ---
