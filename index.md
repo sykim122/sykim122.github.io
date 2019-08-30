@@ -18,18 +18,24 @@
 ---
 
 ### Publications
-## Journal
-- <b>So Yeon Kim</b>, Hyun-Hwan Jeong, Jaesik Kim, Jeong-Hyeon Moon and Kyung-Ah Sohn*. (2019) Robust Pathway-based Multi-Omics Data Integration using Directed Random Walk for Survival Prediction in Multiple Cancer Studies. Biology Direct, 14(1): 8 [Paper](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0239-8)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- <b>So Yeon Kim</b>, Hyun-Hwan Jeong, Jaesik Kim, Jeong-Hyeon Moon and Kyung-Ah Sohn*. (2019) Robust Pathway-based Multi-Omics Data Integration using Directed Random Walk for Survival Prediction in Multiple Cancer Studies. <b>Biology Direct</b>, 14(1): 8 (presented at the 17th Annual International Conference on Critical Assessment of Massive Data Analysis (<b>CAMDA 2018</b>, ISMB COSI track), Chicago, USA) [Paper](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0239-8) [Slides](https://www.slideshare.net/soyeon1771/robust-pathwaybased-multiomics-data-integrationusing-directed-random-walk-for-survival-prediction-in-multiple-cancer-studies)
+
+- <b>So Yeon Kim</b>, Tae Rim Kim, Hyun-Hwan Jeong and Kyung-Ah Sohn*. (2018) Integrative Pathway based Survival Prediction utilizing Interaction between Gene Expression and DNA Methylation in Breast Cancer. <b>BMC Medical Genomics</b>, 11(Suppl 3):68 (presented at Translational Bioinformatics Conference (<b>TBC 2017</b>), Los Angeles, USA [Paper](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0389-z) [Slides] (https://www.slideshare.net/soyeon1771/integrative-pathwaybased-survival-prediction-utilizing-the-interaction-between-gene-expression-and-dna-methylation-in-breast-cancer-102481785)
+
+- <b>So Yeon Kim</b> and Kyung-Ah Sohn*. (2017) Multi-view network-based social-tagged landmark image clustering. 2017 IEEE International Conference on Image Processing (<b>ICIP 2017</b>), Beijing, China  [Paper](https://ieeexplore.ieee.org/abstract/document/8296969/) [Poster]()
+
+- Garam Lee, Lisa Bang, <b>So Yeon Kim</b>, Dokyoon Kim and Kyung-Ah Sohn*. (2017) Identifying subtype-specific associations between gene expression and DNA methylation profiles in breast cancer. <b>BMC medical genomics</b>, 10(1), 28 [Paper]()
+- Moon Soo Cha, <b>So Yeon Kim</b>, Jae Hee Ha, Min-June Lee, Young-June Choi and Kyung-Ah Sohn*. (2016) Topic Model based Approach for Improved Indexing in Content based Document Retrieval. <b>International Journal of Networked and Distributed Computing</b>, 4(1), 55-64 [Paper]()
+- Hyun-hwan Jeong, <b>So Yeon Kim</b>, Kyubum Wee and Kyung-Ah Sohn*. (2015) Investigating the utility of clinical outcome-guided mutual information network in network-based Cox regression. <b>BMC systems biology</b>, 9(Suppl 1), S8 [Paper]()
+- <b>So Yeon Kim</b> and Kyung-Ah Sohn*. (2015) Graph-Based Spam Image Detection for Mobile Phone Spam Image Filtering. <b>International Journal of Software Innovation</b> 3(4):72-86 [Paper]()
+- Sungdo Gu, <b>So Yeon Kim</b>, Hyun-hwan Jeong and Kyung-Ah Sohn*. (2015) Constructing and Exploiting Software Metrics Networks for Software Quality Assessment. <b>2015 5th International Conference on IT Convergence and Security (ICITCS)</b> [Paper]()
+- <b>So Yeon Kim</b>, Sungdo Gu, Hyun-hwan Jeong and Kyung-Ah Sohn*. (2015) A Network Clustering Based Software Attribute Selection for Identifying Fault-Prone Modules. <b>2015 5th International Conference on IT Convergence and Security (ICITCS)</b> [Paper]()
+- <b>So Yeon Kim</b> and Kyung-Ah Sohn*. (2015) Mobile phone spam image detection based on graph partitioning with Pyramid Histogram of Visual Words image descriptor. <b>2015 IEEE/ACIS 14th International Conference on Computer and Information Science (ICIS)</b> [Paper]()
+- Moon Soo Cha, <b>So Yeon Kim</b>, Jae Hee Ha, Min-June Lee, Young-June Choi and Kyung-Ah Sohn*. (2015) CBDIR: Fast and effective content based document Information Retrieval system. <b>2015 IEEE/ACIS 14th International Conference on Computer and Information Science (ICIS)</b> [Paper]()
+- <b>So Yeon Kim</b>, Yenewondim Biadgie and Kyung-Ah Sohn*. (2015) Investigating the Effectiveness of E-mail Spam Image Data for Phone Spam Image Detection Using Scale Invariant Feature Transform Image Descriptor. <b>Information Science and Applications</b>, LNEE 339:591-598 [Paper]()
+- Seung Woo Cho, Moon Soo Cha, <b>So Yeon Kim</b>, Joo Cheol Song and Kyung-Ah Sohn*. (2014) Investigating temporal and spatial trends of brand images using Twitter opinion mining. <b>2014 International Conference on Information Science and Applications (ICISA)</b> [Paper]()
+
 
 ---
 
 
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
