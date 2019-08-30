@@ -3,7 +3,20 @@
 ---
 
 ### Experience
+- <b>Visiting Graduate Student</b> | April 2019 - present
+ - Kim Lab at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
+ - Advised by Professor Dokyoon Kim
+ - Research area: Multi-omics data integration, Network-based analysis, Cancer analysis
 
+- <b>Ph.D. Student</b> | August 2014 - present
+ - Learning and Mining from data(LAMDA) lab at <b>Ajou University</b>, Suwon, Korea
+ - Advised by Professor Kyung-Ah Sohn
+ - Research area: Multi-view learning, Network-based analysis, Bioinformatics, Social data mining
+
+### Education
+- <b>Ajou University</b>
+ - <b>Ph.D. Candidate</b> of Computer Engineering, 2014 - present 
+ - <b>B. S.</b> in Computer Engineering, 2009 - 2014
 
 ---
 
