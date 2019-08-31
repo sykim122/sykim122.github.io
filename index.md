@@ -25,8 +25,6 @@ I've been mostly working on integrating multi-view data using network-based appr
 ### Publications
 - <b>So Yeon Kim</b>, Hyun-Hwan Jeong, Jaesik Kim, Jeong-Hyeon Moon and Kyung-Ah Sohn*. (2019) Robust Pathway-based Multi-Omics Data Integration using Directed Random Walk for Survival Prediction in Multiple Cancer Studies. <b>Biology Direct</b>, 14(1): 8 (presented at the 17th Annual International Conference on Critical Assessment of Massive Data Analysis (<b>CAMDA 2018</b>, ISMB COSI track), Chicago, USA) [[Paper](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0239-8)] [[Slides](https://www.slideshare.net/soyeon1771/robust-pathwaybased-multiomics-data-integrationusing-directed-random-walk-for-survival-prediction-in-multiple-cancer-studies)]
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 - <b>So Yeon Kim</b>, Tae Rim Kim, Hyun-Hwan Jeong and Kyung-Ah Sohn*. (2018) Integrative Pathway based Survival Prediction utilizing Interaction between Gene Expression and DNA Methylation in Breast Cancer. <b>BMC Medical Genomics</b>, 11(Suppl 3):68 (presented at Translational Bioinformatics Conference (<b>TBC 2017</b>), Los Angeles, USA [[Paper](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0389-z)] [[Slides](https://www.slideshare.net/soyeon1771/integrative-pathwaybased-survival-prediction-utilizing-the-interaction-between-gene-expression-and-dna-methylation-in-breast-cancer-102481785)]
 
 - <b>So Yeon Kim</b> and Kyung-Ah Sohn*. (2017) Multi-view network-based social-tagged landmark image clustering. 2017 IEEE International Conference on Image Processing (<b>ICIP 2017</b>), Beijing, China  [[Paper](https://ieeexplore.ieee.org/abstract/document/8296969/)] [[Poster](/pdf/ICIP17.pdf)]
