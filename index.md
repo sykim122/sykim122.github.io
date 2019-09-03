@@ -23,7 +23,10 @@ I've been mostly working on integrating multi-view data using network-based appr
 ### Education
 - <b>Ajou University</b> |  
   - <b>Ph.D. Candidate</b>, Computer Engineering, 2014 - present
+    - Course works: Computational Biology, Bioinformatics, Biomedical and Healthcare Informatics, Computer Vision, Parallel and Distributed Systems, Advanced Algorithms, Advanced Data Mining
+    
   - <b>B. S.</b>, Computer Engineering, 2009 - 2014
+    - Course works: Data Mining, Algorithms, Data Structure, Database, Probability and Statistics
 
 
 ---
