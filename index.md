@@ -20,6 +20,11 @@ I've been mostly working on integrating multi-view data using network-based appr
   - <b>Ph.D. Candidate</b>, Computer Engineering, 2014 - present
   - <b>B. S.</b>, Computer Engineering, 2009 - 2014
 
+### Teaching Assistant
+- Advanced Data Mining (Autumn 2016)
+- Data Mining (Autumn 2014; Autumn 2015; Autumn 2016; Spring 2017)
+- Algorithms (Spring 2015)
+
 ---
 
 ### Publications
