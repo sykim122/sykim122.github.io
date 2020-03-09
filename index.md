@@ -5,12 +5,15 @@ I've been mostly working on integrating multi-view data using network-based appr
 ---
 
 ### Experience
-- <b>Visiting Graduate Student</b> | April 2019 - present
+- <b>Postdoctoral Researcher</b> | January 2020 - Present
+  - <b>Samsung Genome Institute</b>, Seoul, Korea
+  
+- <b>Visiting Graduate Student</b> | April 2019 - December 2020
   - Kim Lab at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
   - Advised by Professor Dokyoon Kim
   - Research area: Multi-omics data integration, Network-based analysis, Cancer analysis
 
-- <b>Ph.D. Student</b> | August 2014 - present
+- <b>Ph.D. Student</b> | August 2014 - December 2020
   - Learning and Mining from data(LAMDA) lab at <b>Ajou University</b>, Suwon, Korea
   - Advised by Professor Kyung-Ah Sohn
   - Research area: Multi-view learning, Network-based analysis, Bioinformatics, Social data mining
@@ -22,10 +25,10 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ### Education
 - <b>Ajou University</b> |  
-  - <b>Ph.D. Candidate</b>, Computer Engineering, 2014 - present
+  - <b>Ph.D.</b>, Computer Engineering, 2014 - 2020
     - Course works: Computational Biology, Bioinformatics, Biomedical and Healthcare Informatics, Computer Vision, Parallel and Distributed Systems, Advanced Algorithms, Advanced Data Mining
     
-  - <b>B. S.</b>, Computer Engineering, 2009 - 2014
+  - <b>B.S.</b>, Computer Engineering, 2009 - 2014
     - Course works: Data Mining, Algorithms, Data Structure, Database, Probability and Statistics
 
 
