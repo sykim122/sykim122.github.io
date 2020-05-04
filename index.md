@@ -26,6 +26,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 ### Education
 - <b>Ajou University</b> |  
   - <b>Ph.D.</b>, Computer Engineering, 2014 - 2020
+    - Thesis: Network-based machine learning approach for aggregating multi-modal data [[Slides](https://www.slideshare.net/soyeon1771/networkbased-machine-learning-approach-for-aggregating-multimodal-data)]
     - Course works: Computational Biology, Bioinformatics, Biomedical and Healthcare Informatics, Computer Vision, Parallel and Distributed Systems, Advanced Algorithms, Advanced Data Mining
     
   - <b>B.S.</b>, Computer Engineering, 2009 - 2014
