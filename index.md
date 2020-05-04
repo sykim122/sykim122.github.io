@@ -9,12 +9,12 @@ I've been mostly working on integrating multi-view data using network-based appr
   - <b>Samsung Genome Institute</b>, Seoul, Korea
   
 - <b>Visiting Graduate Student</b> | April 2019 - December 2020
-  - Kim Lab at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
+  - [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
   - Advised by Professor Dokyoon Kim
   - Research area: Multi-omics data integration, Network-based analysis, Cancer analysis
 
 - <b>Ph.D. Student</b> | August 2014 - December 2020
-  - Learning and Mining from data(LAMDA) lab at <b>Ajou University</b>, Suwon, Korea
+  - [Learning and Mining from data(LAMDA) lab](http://lamda.ml/) at <b>Ajou University</b>, Suwon, Korea
   - Advised by Professor Kyung-Ah Sohn
   - Research area: Multi-view learning, Network-based analysis, Bioinformatics, Social data mining
   
