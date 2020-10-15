@@ -6,17 +6,19 @@ I've been mostly working on integrating multi-view data using network-based appr
 
 ### Experience
 - <b>Postdoctoral Researcher</b> | January 2020 - Present
-  - <b>Samsung Genome Institute</b>, Seoul, Korea
+  - <b>[Samsung Genome Institute](http://www.samsunghospital.com/sgi)</b>, Samsung Medical Center, Seoul, Korea
+  - Department of Digital Health, <b>SAIHST, Sungkyunkwan University</b>, Samsung Medical Center, Seoul, Korea
+  - Research area: Bioinformatics, Cancer analysis
   
 - <b>Visiting Graduate Student</b> | April 2019 - December 2020
   - [Kim Lab](https://www.biomedinfolab.com/) at <b>Univerisity of Pennsylvania</b>, Philadelphia, PA, USA
   - Advised by Professor Dokyoon Kim
-  - Research area: Multi-omics data integration, Network-based analysis, Cancer analysis
+  - Research area: Bioinformatics, Multi-omics data integration, Network-based analysis, Cancer analysis
 
 - <b>Ph.D. Student</b> | August 2014 - December 2020
   - [Learning and Mining from data(LAMDA) lab](http://lamda.ml/) at <b>Ajou University</b>, Suwon, Korea
   - Advised by Professor Kyung-Ah Sohn
-  - Research area: Multi-view learning, Network-based analysis, Bioinformatics, Social data mining
+  - Research area: Bioinformatics, Social data mining, Multi-view learning, Multi-omics data integration, Network-based analysis
   
 - <b>Teaching Assistant</b> | 
   - Advanced Data Mining (Autumn 2016)
@@ -36,13 +38,17 @@ I've been mostly working on integrating multi-view data using network-based appr
 ---
 
 ### Publications
+- Sangwoo Lee, Eun Kyung Choe, <b>So Yeon Kim</b>, Hua Sun Kim, Kyu Joo Park* and Dokyoon Kim*. (2019) Liver imaging features by convolutional neural network to predict the metachronous liver metastasis in stage I-III colorectal cancer patients based on preoperative abdominal CT scan. <b>BMC Bioinformatics</b>, 14(1): 8 (presented at the 18th Asia Pacific Bioinformatics Conference(<b>APBC 2020</b>), Seoul, Korea) [[Paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-020-03686-0)]
+
+- <b>So Yeon Kim</b>, Eun Kyung Choe, Manu Shivakumar, Dokyoon Kim* and Kyung-Ah Sohn*. (2019) Multi-layered network-based pathway activity inference using directed random walks: application to predicting clinical outcomes in urologic cancer. <b>Bioinformatics (in review)</b> [[Paper](https://www.biorxiv.org/content/10.1101/2020.07.22.163949v1)]
+
 - <b>So Yeon Kim</b>, Hyun-Hwan Jeong, Jaesik Kim, Jeong-Hyeon Moon and Kyung-Ah Sohn*. (2019) Robust Pathway-based Multi-Omics Data Integration using Directed Random Walk for Survival Prediction in Multiple Cancer Studies. <b>Biology Direct</b>, 14(1): 8 (presented at the 17th Annual International Conference on Critical Assessment of Massive Data Analysis (<b>CAMDA 2018</b>, ISMB COSI track), Chicago, USA) [[Paper](https://biologydirect.biomedcentral.com/articles/10.1186/s13062-019-0239-8)] [[Slides](https://www.slideshare.net/soyeon1771/robust-pathwaybased-multiomics-data-integrationusing-directed-random-walk-for-survival-prediction-in-multiple-cancer-studies)]
 
-- <b>So Yeon Kim</b>, Tae Rim Kim, Hyun-Hwan Jeong and Kyung-Ah Sohn*. (2018) Integrative Pathway based Survival Prediction utilizing Interaction between Gene Expression and DNA Methylation in Breast Cancer. <b>BMC Medical Genomics</b>, 11(Suppl 3):68 (presented at Translational Bioinformatics Conference (<b>TBC 2017</b>), Los Angeles, USA [[Paper](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0389-z)] [[Slides](https://www.slideshare.net/soyeon1771/integrative-pathwaybased-survival-prediction-utilizing-the-interaction-between-gene-expression-and-dna-methylation-in-breast-cancer-102481785)]
+- <b>So Yeon Kim</b>, Tae Rim Kim, Hyun-Hwan Jeong and Kyung-Ah Sohn*. (2018) Integrative Pathway based Survival Prediction utilizing Interaction between Gene Expression and DNA Methylation in Breast Cancer. <b>BMC Medical Genomics</b>, 11(Suppl 3):68 (presented at Translational Bioinformatics Conference (<b>TBC 2017</b>), Los Angeles, USA) [[Paper](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-018-0389-z)] [[Slides](https://www.slideshare.net/soyeon1771/integrative-pathwaybased-survival-prediction-utilizing-the-interaction-between-gene-expression-and-dna-methylation-in-breast-cancer-102481785)]
 
 - <b>So Yeon Kim</b> and Kyung-Ah Sohn*. (2017) Multi-view network-based social-tagged landmark image clustering. 2017 IEEE International Conference on Image Processing (<b>ICIP 2017</b>), Beijing, China  [[Paper](https://ieeexplore.ieee.org/abstract/document/8296969/)] [[Poster](/pdf/ICIP17.pdf)]
 
-- Garam Lee, Lisa Bang, <b>So Yeon Kim</b>, Dokyoon Kim and Kyung-Ah Sohn*. (2017) Identifying subtype-specific associations between gene expression and DNA methylation profiles in breast cancer. <b>BMC medical genomics</b>, 10(1), 28 [[Paper](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0268-z)]
+- Garam Lee, Lisa Bang, <b>So Yeon Kim</b>, Dokyoon Kim* and Kyung-Ah Sohn*. (2017) Identifying subtype-specific associations between gene expression and DNA methylation profiles in breast cancer. <b>BMC medical genomics</b>, 10(1), 28 [[Paper](https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-017-0268-z)]
 
 - Moon Soo Cha, <b>So Yeon Kim</b>, Jae Hee Ha, Min-June Lee, Young-June Choi and Kyung-Ah Sohn*. (2016) Topic Model based Approach for Improved Indexing in Content based Document Retrieval. <b>International Journal of Networked and Distributed Computing</b>, 4(1), 55-64 [[Paper](https://www.atlantis-press.com/journals/ijndc/25846122)]
 
