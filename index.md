@@ -7,7 +7,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 ### Experience
 - <b>Postdoctoral Researcher</b> | January 2020 - Present
   - <b>[Samsung Genome Institute](http://www.samsunghospital.com/sgi)</b>, Samsung Medical Center, Seoul, Korea
-  - Department of Digital Health, <b>SAIHST, Sungkyunkwan University</b>, Samsung Medical Center, Seoul, Korea
+  - Department of Digital Health, SAIHST, Sungkyunkwan University, Samsung Medical Center, Seoul, Korea
   - Research area: Bioinformatics, Cancer analysis
   
 - <b>Visiting Graduate Student</b> | April 2019 - December 2020
