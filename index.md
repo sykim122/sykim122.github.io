@@ -38,6 +38,8 @@ I've been mostly working on integrating multi-view data using network-based appr
 ---
 
 ### Publications
+- (2020) Association between genetic variants in FGL2 and brain amyloid deposition: a genome-wide association study in the Korean population. Neurology (submitted)
+
 - Eun Kyung Choe, Sangwoo Lee, <b>So Yeon Kim</b>, Manu Shivakumar, Kyu Joo Park, Young Jun Chai, Dokyoon Kim*. (2020) Prognostic effect of inflammatory genes on stage I-III colorectal cancer - integrative analysis of TCGA data. <b>Cancers (in review)</b>
 
 - <b>So Yeon Kim</b>, Eun Kyung Choe, Manu Shivakumar, Dokyoon Kim* and Kyung-Ah Sohn*. (2020) Multi-layered network-based pathway activity inference using directed random walks: application to predicting clinical outcomes in urologic cancer. <b>Bioinformatics (in review)</b> [[Preprint](https://www.biorxiv.org/content/10.1101/2020.07.22.163949v1)] [[Code](https://github.com/sykim122/iDRW)]
