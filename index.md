@@ -38,9 +38,9 @@ I've been mostly working on integrating multi-view data using network-based appr
 ---
 
 ### Publications
-- So Yeon Kim, Hang-Rai Kim, Eunjin Lee, Sang Won Seo*, Hee Jin Kim*, Woong Yang Park*. (2021) Network-based prediction of amyloid-beta pathology using graph convolutional neural networks in cognitively unimpaired individuals. (In preparation)
+- So Yeon Kim, Hang-Rai Kim, Eunjin Lee, Sang Won Seo*, Hee Jin Kim*, Woong Yang Park*. Network-based prediction of amyloid-beta pathology using graph convolutional neural networks in cognitively unimpaired individuals. (In preparation)
 
-- So Yeon Kim, Hang-Rai Kim, Serin Ko, Sang Won Seo*, Hee Jin Kim*, Woong Yang Park*. (2021) Identifying predictive markers of amyloid-beta positivity by inferring gene expression variation from GWAS summary statistics in Alzheimer's disease. (In preparation)
+- So Yeon Kim, Hang-Rai Kim, Serin Ko, Sang Won Seo*, Hee Jin Kim*, Woong Yang Park*. Identifying predictive markers of amyloid-beta positivity by inferring gene expression variation from GWAS summary statistics in Alzheimer's disease. (In preparation)
 
 - Hang-Rai Kim, Sang-Hyuk Jung, Jaeho Kim, Hyemin Jang, Sung Hoon Kang, Song Hwangbo, Jun Pyo Kim, <b>So Yeon Kim</b>, Beomsu Kim, Soyeon Kim, Jee Hyang Jeong, Soo Jin Yoon, Kyung Won Park, Eun-Joo Kim, Bora Yoon, Jae-Won Jang, Jin Yong Hong, Seong Hye Choi, Young Noh, Ko Woon Kim, Si Eun Kim, Jin San Lee, Na-Yeon Jung, Juyoun Lee, Byeong C. Kim, Sang Joon Son, Chang Hyung Hong, Duk L. Na, Sang Won Seo, Hong-Hee Won*, Hee Jin Kim*. (2021) Identifying novel genetic variants for brain amyloid deposition: a genome-wide association study in the Korean population. <b>Alzheimer's Research & Therapy (submitted)</b>
 
