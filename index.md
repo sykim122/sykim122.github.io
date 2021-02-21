@@ -38,7 +38,7 @@ I've been mostly working on integrating multi-view data using network-based appr
 ---
 
 ### Publications
-- So Yeon Kim, Hang-Rai Kim, Sang Won Seo, Hee Jin Kim, Woong Yang Park. (2021) Network-based prediction of amyloid-beta pathology using graph convolutional neural networks in cognitively unimpaired individuals. (In preparation)
+- So Yeon Kim, Hang-Rai Kim, Eunjin Lee, Sang Won Seo, Hee Jin Kim, Woong Yang Park. (2021) Network-based prediction of amyloid-beta pathology using graph convolutional neural networks in cognitively unimpaired individuals. (In preparation)
 
 - So Yeon Kim, Hang-Rai Kim, Serin Ko, Sang Won Seo, Hee Jin Kim, Woong Yang Park. (2021) Identifying predictive markers of amyloid-beta positivity by inferring gene expression variation from GWAS summary statistics in Alzheimer's disease. (In preparation)
 
